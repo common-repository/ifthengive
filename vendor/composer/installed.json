@@ -1,0 +1,54 @@
+[
+    {
+        "name": "angelleye/paypal-php-library",
+        "version": "dev-givewhen",
+        "version_normalized": "dev-givewhen",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/angelleye/paypal-php-library.git",
+            "reference": "62ad86a0f2e7418aa4f30e7a83055cef3a251b21"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/angelleye/paypal-php-library/zipball/62ad86a0f2e7418aa4f30e7a83055cef3a251b21",
+            "reference": "62ad86a0f2e7418aa4f30e7a83055cef3a251b21",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=5.3.0"
+        },
+        "time": "2018-09-11T13:36:59+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "angelleye\\PayPal": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0+"
+        ],
+        "authors": [
+            {
+                "name": "Angell EYE",
+                "email": "service@angelleye.com",
+                "homepage": "https://github.com/angelleye/paypal-php-library/graphs/contributors"
+            }
+        ],
+        "description": "PHP wrapper for PayPal APIs",
+        "homepage": "https://github.com/angelleye/paypal-php-library",
+        "keywords": [
+            "adaptive payments",
+            "angelleye",
+            "api",
+            "express checkout",
+            "invoicing",
+            "payflow",
+            "payments pro",
+            "paypal",
+            "rest"
+        ]
+    }
+]

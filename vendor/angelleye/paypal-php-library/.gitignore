@@ -1,0 +1,13 @@
+/_notes
+*/_notes
+/temp
+/test
+/includes/config.php
+/.settings
+!empty
+/.idea
+/composer.lock
+/vendor/*
+/logs
+/includes
+/nbproject/private/
